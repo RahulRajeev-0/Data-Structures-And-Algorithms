@@ -3,6 +3,10 @@
 # first make the array a max heap 
 # then swap the first element to the last while iteration 
 
+# not stable
+# complexity O(n log n)
+# space complexity O(i)
+
 
 # heapfiy function takes 3 arguements => they are array, endpoint , starting root index  
 # 
